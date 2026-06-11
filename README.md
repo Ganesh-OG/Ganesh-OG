@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GANESH%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineer%20%7C%20Programmer%20–%20L3%20Endpoint%20Support%20%26%20PowerShell%20Automation&descAlignY=62&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GANESH%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineer%20%7C%20Programmer%20%7C%20L3%20Endpoint%20Support%20%26%20PowerShell%20Automation&descAlignY=62&descSize=16)
 
 <div align="center">
 
